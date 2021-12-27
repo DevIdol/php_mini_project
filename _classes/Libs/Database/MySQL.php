@@ -17,7 +17,7 @@ class MySQL
 		$dbhost = "localhost",
 		$dbuser = "admin",
 		$dbname = "php_mini_pj",
-		$dbpass = "jostthang",
+		$dbpass = "",
 	) {
 		$this->dbhost = $dbhost;
 		$this->dbuser = $dbuser;
